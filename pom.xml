@@ -7,6 +7,7 @@
 
     <groupId>com.jalkal</groupId>
     <artifactId>lws-sender</artifactId>
+    <version>0.0.1</version>
 
     <dependencies>
         <dependency>
